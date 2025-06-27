@@ -63,12 +63,17 @@
 ---
 
 ## 🚀 Featured Projects:
-- 🔗 [**Driving School Management System**](https://github.com/anandump2002/Advanced_drive)  
+- 🔗 [**Advanced Driving School Management System**](https://github.com/anandump2002/Advanced_drive)  
   A web-based platform for managing driving school operations including slot booking, student records, and payments.
+  <p
+**Tech Stack**: `Python`, `Django`, `HTML`, `CSS`,`Javascript` </p>
 - 🔗 [**Portfolio Website**](https://anandump2002.github.io/Portfolio/)  
   This is a portfolio website including the information of mine
+  <p>
+**Tech Stack**: `HTML`, `CSS`,`Javascript`</p>
 
 ---
+
 
 ## 📫 Connect with Me
 
