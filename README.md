@@ -47,7 +47,7 @@
 
 ---
 ## 🚀 GitHub Stats  <img src="https://komarev.com/ghpvc/?username=anandump2002&label=Visitors&color=0e75b6&style=flat" alt="profile views"/>
-<p>
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=anandump2002&show_icons=true&theme=tokyonight" alt="Anandu's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anandump2002&theme=tokyonight" alt="GitHub Streak Stats"/>
 </p>
