@@ -18,8 +18,7 @@
 - 🌐 I love working on real-time projects that solve real-world problems
 ---
 
-## 🛠️ Languages and Tools
-
+## 🛠️ Tech Stack
 
 <p align="left">
   <!-- Programming Languages -->
@@ -38,8 +37,6 @@
   <!-- Databases -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -47,8 +44,8 @@
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
----
 
+---
 ## 🚀 GitHub Stats
 
 <p align="center">
@@ -61,35 +58,35 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandump2002&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
+</p
+  
 ---
 
-## 📌 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [Driving School Management System](https://github.com/AnanduMPillai/DrivingSchoolSystem) | A web-based management system for driving schools. | Django, SQLite |
-| [Portfolio Website](https://github.com/AnanduMPillai/Portfolio) | Personal website to showcase skills and projects. | HTML, CSS, JS |
-| [ASP.NET Calculator](https://github.com/AnanduMPillai/ASPNet-Calculator) | Basic calculator using ASP.NET. | C#, ASP.NET |
+## 🚀 Featured Projects:
+- 🔗 [**Driving School Management System**](https://github.com/anandump2002/Advanced_Drive)  
+  A web-based platform for managing driving school operations including slot booking, student records, and payments.
+- 🔗 [**Portfolio Website**](https://anandump2002.github.io/Portfolio/)  
+  This is a portfolio website including the information of mine
 
 ---
 
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/anandu-pillai/" target="_blank">
+  <a href="https://www.linkedin.com/in/anandumpillai/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:anandumpillai@example.com">
+  <a href="mailto:anandump2002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/AnanduMPillai">
+  <a href="https://github.com/anandump2002">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://anandump2002.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white"/>
   </a>
 </p>
 
----
 
 ## ✨ Fun Fact
 
