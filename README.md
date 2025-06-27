@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **ASP.NET, and .NET CORE**
 - 💬 Ask me about **Python, Django**
-- 👨‍💻 All of my projects are available at [My GitHub Repos](https://github.com/anandump2002)
+- 👨‍💻 All of my projects are available at [My GitHub Repos](https://github.com/anandump2002?tab=repositories)
 - 📫 How to reach me: **anandump2002@gmail.com**  
 - ⚡ Fun fact: *I debug faster with coffee☕😄*
 - 🌐 I love working on real-time projects that solve real-world problems
