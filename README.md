@@ -10,7 +10,7 @@
 ## 🧑‍💻 About Me
 
 - 🌱 I’m currently learning **ASP.NET, and .NET CORE**
-- 💬 Ask me about **Python, Django**
+- 💬 Ask me about **Python, Django, MERN**
 - 👨‍💻 All of my projects are available at [My GitHub Repos](https://github.com/anandump2002?tab=repositories)
 - 📌 This is my portfolio website [My Portfolio Website](https://anandump2002.github.io/Portfolio/)
 - 📫 How to reach me: **anandump2002@gmail.com**  
