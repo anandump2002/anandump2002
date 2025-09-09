@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Anandu M Pillai</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Tech+Enthusiast;Full+Stack+Django+Developer;Frontend+Developer;Backend+Developer;Web+Designing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Tech+Enthusiast;Full+Stack+Django+Developer;MERN+Stack+Developer;Frontend+Developer;Backend+Developer;Web+Designing" alt="Typing SVG" />
 </p>
 
 ---
